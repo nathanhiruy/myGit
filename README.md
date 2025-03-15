@@ -3,9 +3,9 @@
 ## 1. Initialize a Repository (git init)
 Create a directory (e.g., .mygit/) that will store everything related to version control. Inside it, create:
 
-- A folder to store objects (compressed file data).
-- A folder for refs (branches and tags).
-- A HEAD file to keep track of the current branch.
+- A folder to store objects (compressed file data). :white_check_mark:
+- A folder for refs (branches and tags). :white_check_mark:
+- A HEAD file to keep track of the current branch. 
 
 ## 2. Store File Contents as Blobs
 In Git, each version of a file is stored as a compressed "blob". What to do:
